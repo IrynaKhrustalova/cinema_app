@@ -1,7 +1,7 @@
 # **📽️Cinema app📽️**
 
+![R](https://user-images.githubusercontent.com/96648890/194519721-240e9718-a07a-4ae0-9568-8f5a6e49c107.jpg)
 
-![Cinema-HD-for-Windows-PC](https://user-images.githubusercontent.com/96648890/190856735-14ba2155-ce2a-4efa-8629-28988d83aea5.jpg)
 
 <!-- ABOUT THE PROJECT -->
 ## **📢Project Description**
