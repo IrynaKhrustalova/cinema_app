@@ -40,6 +40,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .antMatchers(HttpMethod.PUT, "/shopping-carts/movies-sessions")
                 .hasRole(USER_ROLE_NAME)
                 .antMatchers(HttpMethod.GET, "/users/by-email").hasRole(USER_ROLE_NAME)
+                .antMatchers(HttpMethod.DELETE, "/movie-sessions").hasRole(ADMIN_ROLE_NAME)
                 .anyRequest().authenticated()
                 .and()
                 .formLogin()
